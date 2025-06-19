@@ -1,0 +1,11 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(09Jun2025:17:32:53):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -s -input restore.tcl )
+s2::(09Jun2025:19:32:36):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -gui )
+s3::(09Jun2025:19:34:35):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -gui "-s " )
+s4::(09Jun2025:19:35:50):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -gui -s )
+s5::(09Jun2025:19:36:44):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -gui -s )
+s6::(09Jun2025:19:37:49):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -gui -s )
+s7::(09Jun2025:19:40:08):( xrun tb.sv uart_rx.sv baud_rate.sv counter.sv -access +rw -gui -s )
